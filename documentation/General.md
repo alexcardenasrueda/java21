@@ -29,5 +29,17 @@ Java21 is a new LongTimeSupport from Oracle and the latest version
 sdk install java 21.ea.35-open
 sdk use java 21.ea.35-open
 jshell --enable-preview --enable-native-access=ALL-UNNAMED
-}
 ```
+### Useful documentation
+https://en.wikipedia.org/wiki/Java_version_history
+
+https://openjdk.java.net/projects/jdk/21/
+
+https://jdk.java.net/21/
+
+
+### Main content with new features
+
+
+- #### [ JEP 444: Virtual Threads](virtual-threads.md)
+- #### [ JEP 453: Structured Concurrency](structured-concurrency.md)

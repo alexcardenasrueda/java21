@@ -1,0 +1,5 @@
+package com.learn.goals.hello;
+
+void main() {
+  System.out.println("Hello world!");
+}
