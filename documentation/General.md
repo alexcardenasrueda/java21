@@ -46,3 +46,4 @@ https://jdk.java.net/21/
 - #### [ JEP 443: Unnamed Patterns and Variables](unnamed-patterns-and-variables.md)
 - #### [ JEP 445: Unnamed Classes and Instance Main Methods](unnamed-classes-and-instace-main-methods.md)
 - #### [ JEP 431: Sequenced Collections](sequenced-collections.md)
+- #### [ JEP 430: String Templates](string-templates.md)
